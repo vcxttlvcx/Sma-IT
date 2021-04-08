@@ -1,6 +1,6 @@
 <div style="width:100%; height:100px "><img src="images/logo.png" style="width:200px;height:100px;float:left; display : block;"></div>
 
- ![Generic badge](https://img.shields.io/badge/Vue.js-2.6.1-orange.svg) ![Generic badge](https://img.shields.io/badge/python-3.8.0-{color}.svg) ![Generic badge](https://img.shields.io/badge/Axios-0.21.1-blue.svg) ![Generic badge](https://img.shields.io/badge/Uvicorn-0.11.3-fe0094.svg)![Generic badge](https://img.shields.io/badge/FastAPI-0.63.0-red.svg) ![Generic badge](https://img.shields.io/badge/Mysql-8.0.17-yellowgreen.svg) ![Generic badge](https://img.shields.io/badge/Nginx-lightgrey.svg)
+ ![Generic badge](https://img.shields.io/badge/Vue.js-2.6.1-orange.svg) ![Generic badge](https://img.shields.io/badge/python-3.8.0-{color}.svg) ![Generic badge](https://img.shields.io/badge/Axios-0.21.1-blue.svg) ![Generic badge](https://img.shields.io/badge/Uvicorn-0.11.3-fe0094.svg) ![Generic badge](https://img.shields.io/badge/FastAPI-0.63.0-red.svg) ![Generic badge](https://img.shields.io/badge/Mysql-8.0.17-yellowgreen.svg) ![Generic badge](https://img.shields.io/badge/Nginx-1.18.0-lightgrey.svg)
 
 # Sma-IT
 
