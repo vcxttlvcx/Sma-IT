@@ -5,7 +5,7 @@ from sqlalchemy.pool import NullPool
 # 데이터 베이스 정보 및 사용자 정보
 user_name = "smait"
 user_pwd = "1234"
-db_host = "j4d102.p.ssafy.io:3306"
+db_host = "localhost:3306"
 db_name = "smait"
 # 데이터 베이스 연결을 위한 URL
 DATABASE = 'mysql+pymysql://%s:%s@%s/%s?charset=utf8' % (
